@@ -1,3 +1,1 @@
-This is going great
-This is hard
-This is tricky
+This file is mandatory in projects
